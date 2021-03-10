@@ -1,0 +1,14 @@
+Start timestamp:2021-03-08-22-33-28
+
+Please complete the following questions based on:(a) the sample dataset provided. (b) Use Python; and/or Pyspark where necessary; do not use (c) pandas;  Answers in Pyspark will be scored higher. Please reply back and submit your results no later than 12pm (noon) on 3/9/2021.
+
+    1. Please provide the data types for the columns in the file. Transform the data into its proper data types (if needed).
+    2. What is the average duration of the campaigns?
+    3. Please group the data by age groups: <20, 20-30, 30-40, 40-50, 50-60, >60
+    4. How many people in the age group 50+ have university degrees?
+    5. Create a table that has the summary statistics (count, mean, min, max, and standard deviation) for the 12 jobs listed. Sort from high to low mean.
+    6. How many people in the age group 20-30 have loans? How many do not?
+    7. Create a new column that calculates the age squared. 
+    8. Remove all records of age group 50-60.
+    9. Build a pipeline to automate all of the above. (use this question to distinguish yourself. Remember than Experian is 100% AWS)
+
